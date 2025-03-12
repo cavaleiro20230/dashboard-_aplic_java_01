@@ -1,7 +1,7 @@
 # dashboard-_aplic_java_01
 dashboard para aplicação em java 
 
- financial dashboard application with reports and charts to display financial data. Since v0 works best with Next.js, I'll build this solution using Next.js, React, and modern charting libraries.
+ financial dashboard application with reports and charts to display financial data. works best with Next.js, I'll build this solution using Next.js, React, and modern charting libraries.
 
 ![image](https://github.com/user-attachments/assets/f6a6267f-3fb9-493c-8b99-1ec315bc6680)
 
